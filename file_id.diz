@@ -1,0 +1,9 @@
+GetDT510 v0.1
+
+Example program for get measured
+data from old Hungarian DATCON DT510
+power meter device, via RS232 port
+with ModBUS/ASCII protocol.
+
+Licence: CC0 Universal v1.0
+Copyright (C) 2023 Pozsar Zsolt
